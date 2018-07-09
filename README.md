@@ -27,7 +27,7 @@ MediFIT으로 측정된 몸 상태에 따른 운동법 처방  어플리케이�
 4.Guidline
 ![4](https://user-images.githubusercontent.com/29969821/42441452-2f5f31f2-83a3-11e8-9d96-d5e0a9646114.jpg)
 5.Week Day Select
-![5](https://user-images.githubusercontent.com/29969821/42441458-318bebdc-83a3-11e8-9b93-c8078469b0e8.jpg)
+![default](https://user-images.githubusercontent.com/29969821/42441744-e0791ee4-83a3-11e8-8891-21c9d834b284.JPG)
 6.Category Select
 ![6](https://user-images.githubusercontent.com/29969821/42441462-329fcc78-83a3-11e8-9ca8-6f33cdbe7517.jpg)
 7.Detail View - Image/Video
